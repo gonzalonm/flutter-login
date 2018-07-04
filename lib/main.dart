@@ -1,5 +1,3 @@
-// https://medium.com/@kashifmin/flutter-login-app-using-rest-api-and-sqflite-b4815aed2149
-
 import 'package:flutter/material.dart';
 import 'package:flutter_demo/routes.dart';
 
